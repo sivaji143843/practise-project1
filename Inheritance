@@ -1,0 +1,37 @@
+Inheritance in Java : 
+Inheritance means creating new classes based on existing ones
+Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object. 
+It is an important part of OOPs 
+
+Types of Inheritance :
+
+Single-level inheritance.
+Multi-level Inheritance.
+Hierarchical Inheritance.
+Multiple Inheritance.
+Hybrid Inheritance.
+
+Single-level inheritance :
+
+this type of inheritance occurs for only a single class. 
+Only one class is derived from the parent class.
+
+Multi-level Inheritance : 
+
+The multi-level inheritance includes the involvement of at least two or more than two classes. 
+One class inherits the features from a parent class and the newly created sub-class becomes the base class for another new class.
+
+Hierarchical Inheritance : 
+
+In Hierarchical inheritance, more than one sub-class inherits the property of a single base class. 
+There is one base class and multiple derived classes. Several other classes inherit the derived classes as well. 
+Hierarchical structures thus form a tree-like structure.
+
+Multiple Inheritance :
+
+Multiple inheritance is a feature of some object-oriented computer programming languages in which an object or class can inherit features from more than one parent object or parent class.
+
+Hybrid Inheritance :
+
+The process of combining more than one type of Inheritance together while deriving subclasses in a program is called a Hybrid Inheritance. 
+Hybrid in C++ follows the following pattern - Multiple Inheritance, Single Inheritance, and Hierarchical Inheritances are combined together.
