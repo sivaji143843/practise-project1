@@ -1,0 +1,10 @@
+the features of Selenium
+
+supports testing on all browser
+Wait times
+Paramterized testing
+Integrate Webdriver with tools like testNG and cucumber that enhances the fetaures of selenium webdriver
+Data driven testing
+pritoritze test cases
+pre-condition, post condition
+reports generation
